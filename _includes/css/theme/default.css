@@ -19,8 +19,8 @@
 }
 
 [data-theme="dark"] {
-  --color-primary: #fb923c; /* orange-400 */
-  --color-secondary: #f59e0b; /* orange-500 */
+  --color-primary: #3b82f6; /* orange-400 */
+  --color-secondary: #2563eb; /* orange-500 */
   --color-accent: #3b82f6; /* blue-400 */
 
   --background-color: #52525b; /* gray-600 */
